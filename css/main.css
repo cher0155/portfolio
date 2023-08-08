@@ -26,6 +26,7 @@ header {
     height: 500px;
 }
 
+
 .fs-1 {
     color:#C4951D;
     font-family:Sree Krushnadevaraya;
@@ -45,5 +46,9 @@ footer {
     font-family:Cormorant Infant;
     text-align: center;
     font-size: 20px;
-
 }
+
+footer p {
+    padding-top: 20px;
+}
+
