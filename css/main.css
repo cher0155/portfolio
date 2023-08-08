@@ -21,10 +21,23 @@ header {
     width: 300px;
 }
 
+.fs-1 {
+    color:#C4951D;
+    font-family:Sree Krushnadevaraya;
+    text-align: center;
+}
+
+.fs-3 {
+    color:#290133FF;
+    font-family:Cormorant Infant, semi-bold;
+    text-align: center;
+}
+
+
 footer {
     background-color:#290133FF;
     color:#C4951D;
-    font-family:Sree Krushnadevaraya;
+    font-family:Cormorant Infant;
     text-align: center;
     font-size: 20px;
 
