@@ -21,13 +21,18 @@ header {
     width: 300px;
 }
 
+.front-header {
+    width: 1512px;
+    height: 500px;
+}
+
 .fs-1 {
     color:#C4951D;
     font-family:Sree Krushnadevaraya;
     text-align: center;
 }
 
-.fs-3 {
+.fs-4 {
     color:#290133FF;
     font-family:Cormorant Infant, semi-bold;
     text-align: center;
