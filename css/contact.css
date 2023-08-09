@@ -29,7 +29,7 @@ header {
 }
 
 .butterfly {
-    width: 600px;
+    width: 650px;
     height: 475px;
     padding-top:100px;
     padding-left:200px;
@@ -40,6 +40,8 @@ header {
     color:#290133FF;
     width: 500px;
     padding-bottom: 50px;
+    border: 1px solid #C4951D;
+    border-radius: 8px;
 }
 
 .btn {
