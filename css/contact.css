@@ -22,19 +22,32 @@ header {
 }
 
 
-
-
 .fs-1 {
     color:#C4951D;
     font-family:Sree Krushnadevaraya;
     text-align: center;
 }
 
-.fs-4 {
-    color:#290133FF;
-    font-family:Cormorant Infant, semi-bold;
-    text-align: center;
+.butterfly {
+    width: 500px;
+    height: 300px;
 }
+
+.container {
+    font-family: Sree Krushnadevaraya;
+    color:#290133FF;
+    width: 500px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    background-color: #C4951D;
+}
+
+.btn:hover {
+    background-color:#290133FF;
+}
+
 
 
 footer {
@@ -44,6 +57,7 @@ footer {
     text-align: center;
     font-size: 20px;
 }
+
 
 footer p {
     padding-top: 20px;
