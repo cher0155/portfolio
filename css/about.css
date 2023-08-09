@@ -22,8 +22,9 @@ header {
 }
 
 .container {
+    display: block;
+    margin: auto;
     padding-top: 50px;
-    padding-bottom: 50px;
 }
 
 
@@ -32,7 +33,7 @@ header {
     font-family:Sree Krushnadevaraya;
 }
 
-.fs-4 {
+.fs-5 {
     color:#290133FF;
     font-family:Cormorant Infant, semi-bold;
 }

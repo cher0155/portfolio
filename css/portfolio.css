@@ -27,6 +27,13 @@ header {
     height: 50px;
 }
 
+.img-fluid {
+    display: block;
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+}
+
 .fs-1 {
     color:#C4951D;
     font-family:Sree Krushnadevaraya;
