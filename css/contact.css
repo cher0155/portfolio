@@ -29,8 +29,10 @@ header {
 }
 
 .butterfly {
-    width: 500px;
-    height: 300px;
+    width: 600px;
+    height: 475px;
+    padding-top:100px;
+    padding-left:200px;
 }
 
 .container {
